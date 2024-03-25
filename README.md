@@ -1,0 +1,4 @@
+
+	Description: I have created a web page with the theme "Computer Components," which will allow a so-called "customer" to create a user profile, explore existing products, edit the profile, etc. This web page will have a specific administrator who will be able to add product categories and subcategories, manage products, and user data registered on the site. The products added to the webpage will be arranged into categories, and each category will have its own subcategories to enable easy navigation for the customer to find the desired product.
+	Our interest in creating a dynamic website arose from our desire to learn PHP, HTML, and a small part of Java language. Initially, we learned the workings of PHP, SQL, HTML, CSS, and JavaScript. Later on, we also utilized Brackets, especially for implementing the PHP part that we needed.
+	The website for computer components is a dynamic application aimed at attracting customers for information about the site.
